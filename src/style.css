@@ -1,4 +1,10 @@
-*{
+/* body{
   background-image: url('./asserts/user1.jpg');
-  padding: 15px;
+  background-repeat: no-repeat;
+ 
+} */
+
+h1{
+  color: red;
 }
+
